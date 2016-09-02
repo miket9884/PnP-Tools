@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="627e9c4a-f6e1-4391-96f0-3164202e10e3" Version="1.0" Language="en-US" Publisher="Perficient" />
+    <Identity Id="627e9c4a-f6e1-4391-96f0-3164202e10e3" Version="1.1" Language="en-US" Publisher="Perficient" />
     <DisplayName>Provisioning.VSTools</DisplayName>
     <Description>PnP Provisioning Tool for Visual Studio</Description>
   </Metadata>
